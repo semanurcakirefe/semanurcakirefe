@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @semanurcakirefe
 - 👀 I’m interested in organic chemistry.
-- 🌱 I’m currently learning machine learning and materials discovery.
+- 🌱 I’m currently learning machine and materials discovery.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
